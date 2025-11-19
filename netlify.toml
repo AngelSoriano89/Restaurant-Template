@@ -1,0 +1,36 @@
+# Netlify Configuration File
+
+[build]
+  # Comando de build
+  command = "npm run build"
+  
+  # Directorio de output
+  publish = ".next"
+  
+  # Directorio base (raíz del proyecto)
+  base = "/"
+
+# Variables de entorno (puedes configurarlas en el dashboard también)
+[build.environment]
+  NODE_VERSION = "18.17.0"
+  NPM_FLAGS = "--legacy-peer-deps"
+
+# Configuración para Next.js
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Redirects para Next.js App Router
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Headers de seguridad
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    
