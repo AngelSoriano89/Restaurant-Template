@@ -1,0 +1,103 @@
+// src/data/specialties.ts
+// 🎨 PLANTILLA - Personaliza las especialidades del chef
+
+import { Specialty } from "@/types/menu";
+
+export const specialties: Specialty[] = [
+  {
+    id: "chef-special-1",
+    name: "Truffle Risotto with Scallops",
+    description: "Creamy arborio rice infused with black truffle oil, topped with perfectly seared scallops and microgreens",
+    price: 34,
+    image: "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800&h=600&fit=crop",
+    ingredients: [
+      "Arborio rice",
+      "Black truffle oil",
+      "Fresh scallops",
+      "Parmesan cheese",
+      "White wine",
+      "Microgreens",
+    ],
+    featured: true,
+  },
+  {
+    id: "chef-special-2",
+    name: "Herb-Crusted Rack of Lamb",
+    description: "Tender lamb rack with rosemary and garlic crust, served with roasted vegetables and mint jus",
+    price: 42,
+    image: "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800&h=600&fit=crop",
+    ingredients: [
+      "Lamb rack",
+      "Fresh rosemary",
+      "Garlic",
+      "Panko breadcrumbs",
+      "Seasonal vegetables",
+      "Mint jus",
+    ],
+    featured: true,
+  },
+  {
+    id: "chef-special-3",
+    name: "Mediterranean Sea Bass",
+    description: "Whole roasted sea bass with cherry tomatoes, olives, capers, and fresh herbs in white wine sauce",
+    price: 38,
+    image: "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=800&h=600&fit=crop",
+    ingredients: [
+      "Fresh sea bass",
+      "Cherry tomatoes",
+      "Kalamata olives",
+      "Capers",
+      "Fresh herbs",
+      "White wine",
+    ],
+    featured: true,
+  },
+  {
+    id: "chef-special-4",
+    name: "Wagyu Beef Tenderloin",
+    description: "Premium Wagyu beef medallions with red wine reduction, truffle mashed potatoes, and seasonal greens",
+    price: 58,
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1920&h=1080&fit=crop",
+    ingredients: [
+      "Wagyu beef tenderloin",
+      "Red wine reduction",
+      "Truffle oil",
+      "Potatoes",
+      "Seasonal greens",
+      "Butter",
+    ],
+    featured: true,
+  },
+  {
+    id: "chef-special-5",
+    name: "Lobster Thermidor",
+    description: "Classic French preparation with cognac, egg yolks, and gruyere cheese, served in the shell",
+    price: 52,
+    image: "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&h=600&fit=crop",
+    ingredients: [
+      "Fresh lobster",
+      "Cognac",
+      "Gruyere cheese",
+      "Egg yolks",
+      "Dijon mustard",
+      "Cream",
+    ],
+    featured: true,
+  },
+  {
+    id: "chef-special-6",
+    name: "Wild Mushroom Ravioli",
+    description: "House-made ravioli filled with wild mushrooms, served in brown butter sage sauce with parmesan",
+    price: 28,
+    image: "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop",
+    ingredients: [
+      "Fresh pasta",
+      "Wild mushrooms",
+      "Ricotta cheese",
+      "Sage",
+      "Brown butter",
+      "Parmesan",
+    ],
+    featured: true,
+  },
+];

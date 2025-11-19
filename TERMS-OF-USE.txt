@@ -1,0 +1,350 @@
+========================================
+TERMS OF USE - RESTAURANT TEMPLATE
+========================================
+
+Last Updated: January 2025
+
+By purchasing and using this Restaurant Template ("the Template"), you agree to be bound by these Terms of Use.
+
+========================================
+1. DEFINITIONS
+========================================
+
+"Licensor" refers to the creator/seller of this Template.
+"Licensee" refers to you, the purchaser of this Template.
+"Template" refers to all files, code, images, and documentation included in your purchase.
+"End Product" refers to the final website created using this Template.
+
+========================================
+2. LICENSE GRANT
+========================================
+
+The Licensor grants you a non-exclusive, non-transferable license to use the Template for creating ONE (1) End Product.
+
+REGULAR LICENSE:
+- Use for one single end product (one website)
+- End product must be free to end users
+- Cannot charge users to access the website
+
+EXTENDED LICENSE:
+- Use for one single end product (one website)
+- End product can be sold or charged for
+- Can charge users to access the website
+
+========================================
+3. WHAT YOU CAN DO
+========================================
+
+✓ Create one website using this Template
+✓ Modify the Template code and design as needed
+✓ Use for personal or client projects
+✓ Deploy the website to production
+✓ Remove or modify any "Created by" credits
+✓ Combine with your own code or other libraries
+✓ Use for commercial purposes (if you own the license)
+
+========================================
+4. WHAT YOU CANNOT DO
+========================================
+
+✗ Resell or redistribute the Template (as-is or modified)
+✗ Share the Template source code with others
+✗ Use for multiple projects with one license
+✗ Create derivative templates for sale or distribution
+✗ Use in online template builders or generators
+✗ Claim the Template as your own creation
+✗ Sub-license the Template to others
+✗ Allow others to download or extract the Template
+
+========================================
+5. MULTIPLE PROJECTS
+========================================
+
+Each purchase grants a license for ONE end product only.
+
+To use for multiple websites, you must purchase multiple licenses:
+- 2 websites = 2 licenses
+- 5 websites = 5 licenses
+- And so on...
+
+========================================
+6. CLIENT WORK
+========================================
+
+You may use this Template to create a website for a client, provided:
+
+✓ You charge for your services (design, development, customization)
+✓ The client receives the finished website, not the Template itself
+✓ You don't provide the source Template to the client
+✓ You use one license per client project
+
+========================================
+7. OWNERSHIP
+========================================
+
+This is a license, not a transfer of ownership.
+
+The Licensor retains all intellectual property rights to the original Template.
+
+You own:
+- Modifications you make to the Template
+- Content you add (text, images, etc.)
+- The compiled/built End Product
+
+You do not own:
+- The original Template source code
+- The Template's design concept
+- Pre-included assets and libraries
+
+========================================
+8. SUPPORT & UPDATES
+========================================
+
+INCLUDED:
+✓ 6 months of support from purchase date
+✓ Bug fixes and patches
+✓ Free minor updates (v1.x)
+✓ Documentation updates
+
+NOT INCLUDED:
+✗ Custom development
+✗ Installation services
+✗ Hosting or deployment
+✗ Third-party service configuration
+✗ Modifications or customizations
+✗ Training or tutorials beyond documentation
+
+EXTENDED SUPPORT:
+Available for purchase after 6-month period expires.
+
+========================================
+9. UPDATES
+========================================
+
+FREE UPDATES:
+✓ Bug fixes
+✓ Security patches
+✓ Compatibility updates (Next.js, React, etc.)
+✓ Minor feature additions
+
+MAJOR UPDATES:
+- Major version updates (v2.0, v3.0) may require additional purchase
+- Announced via email to all purchasers
+
+How to update:
+- Download latest version from your marketplace account
+- Review changelog for breaking changes
+- Apply updates to your project
+
+========================================
+10. WARRANTY DISCLAIMER
+========================================
+
+THE TEMPLATE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+The Licensor does not warrant that:
+- The Template will be error-free
+- The Template will be compatible with all hosting environments
+- The Template will meet your specific requirements
+- Use of the Template will be uninterrupted
+
+The Licensor makes no guarantees regarding:
+- Performance of the Template
+- Third-party services (Resend, Google Maps, etc.)
+- Browser compatibility beyond what's documented
+- Hosting provider compatibility
+
+========================================
+11. LIMITATION OF LIABILITY
+========================================
+
+In no event shall the Licensor be liable for:
+- Any indirect, special, incidental, or consequential damages
+- Loss of profits, data, or business
+- Cost of substitute goods or services
+- Any damages exceeding the purchase price of the Template
+
+Maximum liability is limited to the amount paid for the Template.
+
+========================================
+12. REFUND POLICY
+========================================
+
+Refunds may be granted within 7 days of purchase if:
+
+✓ The Template is fundamentally broken and cannot be fixed
+✓ The Template doesn't match the description
+✓ Technical issues prevent download or installation
+✓ The Template has critical compatibility issues
+
+Refunds will NOT be granted for:
+✗ Change of mind or buyer's remorse
+✗ Lack of technical skills to use the Template
+✗ Third-party service issues (Resend, hosting, etc.)
+✗ After you've already used/deployed the Template
+✗ Missing features that weren't advertised
+
+To request a refund:
+- Contact within 7 days of purchase
+- Provide detailed explanation of the issue
+- Allow opportunity for resolution before refund
+
+========================================
+13. THIRD-PARTY SERVICES
+========================================
+
+This Template integrates with third-party services:
+- Resend (email service)
+- Google Maps (mapping)
+- Vercel/Netlify/etc. (hosting)
+
+You are responsible for:
+✓ Creating accounts with these services
+✓ Obtaining API keys and credentials
+✓ Complying with their terms of service
+✓ Any costs associated with these services
+
+The Licensor is not responsible for:
+✗ Third-party service availability
+✗ Changes to third-party APIs
+✗ Costs or pricing of third-party services
+✗ Third-party service support
+
+========================================
+14. ATTRIBUTION
+========================================
+
+Attribution is NOT required but appreciated.
+
+You may remove any "Created by [Author]" credits.
+
+If you choose to keep attribution:
+- Link to our website or marketplace profile
+- Mention "Template by [Author Name]"
+- This helps support future template development
+
+========================================
+15. PROHIBITED USES
+========================================
+
+You may NOT use this Template for:
+
+✗ Illegal activities
+✗ Scams or fraudulent websites
+✗ Adult or explicit content (without permission)
+✗ Phishing or malware distribution
+✗ Spam or unsolicited marketing
+✗ Any purpose that violates laws or regulations
+
+The Licensor reserves the right to revoke your license if used for prohibited purposes.
+
+========================================
+16. CODE & DEPENDENCIES
+========================================
+
+This Template includes:
+- Original code created by the Licensor
+- Open-source libraries (React, Next.js, Tailwind CSS, etc.)
+- UI components (shadcn/ui)
+
+Open-source components are subject to their own licenses:
+- MIT License (most components)
+- Check package.json for specific license information
+
+You must comply with all open-source license requirements.
+
+========================================
+17. TERMINATION
+========================================
+
+This license is effective until terminated.
+
+This license terminates automatically if you:
+- Breach any terms of this agreement
+- Use the Template for prohibited purposes
+- Resell or redistribute the Template
+
+Upon termination:
+- You must stop using the Template
+- Remove all deployed instances
+- Destroy all copies of the Template
+
+Already created End Products may remain live if they comply with the original license terms.
+
+========================================
+18. MODIFICATIONS TO TERMS
+========================================
+
+The Licensor reserves the right to modify these Terms of Use.
+
+Changes will be announced via:
+- Email to all purchasers
+- Marketplace item page
+- Documentation updates
+
+Continued use after changes constitutes acceptance of new terms.
+
+Purchase date terms apply to your specific purchase.
+
+========================================
+19. GOVERNING LAW
+========================================
+
+These Terms shall be governed by the laws of [Your Country/State], without regard to conflict of law principles.
+
+Any disputes shall be resolved through:
+1. Direct communication with Licensor
+2. Mediation (if necessary)
+3. Arbitration (if mediation fails)
+
+========================================
+20. ENTIRE AGREEMENT
+========================================
+
+These Terms constitute the entire agreement between Licensor and Licensee.
+
+Supersedes all prior communications, agreements, or understandings.
+
+No modification is valid unless in writing and signed by both parties.
+
+========================================
+21. CONTACT
+========================================
+
+Questions about these Terms?
+
+Email: support@example.com
+Marketplace: [Your Marketplace Profile]
+Response Time: Within 24-48 hours
+
+For license inquiries:
+- Multiple license discounts
+- Custom licensing arrangements
+- Enterprise agreements
+- White-label options
+
+========================================
+22. ACCEPTANCE
+========================================
+
+By purchasing, downloading, or using this Template, you acknowledge that:
+
+✓ You have read these Terms of Use
+✓ You understand these Terms
+✓ You agree to be bound by these Terms
+✓ You are authorized to enter into this agreement
+
+If you do not agree to these Terms, do not use the Template and request a refund within 7 days.
+
+========================================
+
+Thank you for purchasing our Restaurant Template!
+
+We hope it helps you create an amazing website.
+
+For support or questions:
+Email: support@example.com
+
+Happy building! 🚀
+
+========================================

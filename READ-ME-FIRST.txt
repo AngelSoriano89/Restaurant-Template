@@ -1,0 +1,52 @@
+========================================
+🍽️ RESTAURANT TEMPLATE - QUICK START
+========================================
+
+Thank you for purchasing this template!
+
+📁 WHAT'S INCLUDED:
+-------------------
+- source-code/          → Full Next.js project
+- documentation/        → Complete guides
+- LICENSE.txt          → License agreement
+- READ-ME-FIRST.txt    → This file
+
+⚡ QUICK START (5 minutes):
+--------------------------
+
+1. Extract the ZIP file
+2. Open terminal in 'source-code' folder
+3. Run: npm install
+4. Copy .env.example to .env.local
+5. Run: npm run dev
+6. Open: http://localhost:3000
+
+📚 DOCUMENTATION:
+----------------
+→ README.md - Complete documentation
+→ QUICK-START.md - 5-minute setup guide
+→ CUSTOMIZATION-GUIDE.md - How to customize
+→ IMAGE-GUIDE.md - Image specifications
+→ DEPLOYMENT-GUIDE.md - Deploy to production
+
+🔑 IMPORTANT:
+------------
+1. Configure .env.local with your credentials
+2. Get Resend API key: https://resend.com
+3. Get Google Maps URL: See documentation
+4. Replace images with your own photos
+
+🆘 NEED HELP?
+------------
+- Email: support@restauranttemplate.com
+- Documentation: /documentation/
+- Support: Available for 6 months
+
+⭐ LEAVE A REVIEW:
+-----------------
+If you love this template, please leave a 5-star review!
+It helps other buyers and motivates us to improve.
+
+🚀 ENJOY YOUR NEW WEBSITE!
+
+Visit our portfolio for more premium templates.
